@@ -1,7 +1,7 @@
 {
-  "name": "webshot",
+  "name": "webshot-query",
   "version": "0.18.0",
-  "description": "Easy website screenshots",
+  "description": "Easy website screenshots, with url query support (mostly a hack)",
   "author": "Brenden Kokoszka",
   "contributors": [
     {
@@ -11,12 +11,16 @@
     {
       "name": "Matthew Chase Whittemore",
       "email": "mcwhittemore@gmail.com"
+    },
+	{
+      "name": "Jimmy Toledo",
+      "email": "jimmy.toledo.a@gmail.com"
     }
   ],
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "http://github.com/brenden/node-webshot.git"
+    "url": "https://github.com/Jim-Dev/node-webshot"
   },
   "engine": [
     "node >=0.7.00"
